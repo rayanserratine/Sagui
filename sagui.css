@@ -17,6 +17,7 @@ header {
 }
 .itens {
   display: block;
+  padding: 10px;
 }
 
 #item:hover {
